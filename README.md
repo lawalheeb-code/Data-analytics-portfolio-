@@ -1,11 +1,14 @@
-# Customer Behavior & Product Performance Analysis
+# Data Analytics Portfolio
 
-## Project Overview
+Welcome to my data analytics portfolio. This repository contains projects where I use data analysis tools to clean, analyze, visualize, and communicate insights from real-world datasets.
 
-This project analyzes customer behavior, product performance, sales, and interactions using Microsoft Excel. The goal was to explore purchasing patterns, customer engagement, product performance, and sales trends.
+## Projects
 
-## Tools Used
+### 📊 Excel — Customer Behavior & Product Performance Analysis
 
+An Excel project analyzing customer behavior, product performance, sales, and interactions.
+
+**Tools used:**
 - Microsoft Excel
 - Power Query
 - Power Pivot
@@ -15,21 +18,16 @@ This project analyzes customer behavior, product performance, sales, and interac
 - Slicers
 - Timeline
 
-## Business Questions
+**Key areas analyzed:**
+- Product sales and revenue
+- Customer interactions
+- Product ratings
+- Revenue trends
+- Customer demographics
+- Device usage
+- Loyalty tiers
 
-- Which products are ordered the most?
-- Which products generate the most revenue?
-- Which loyalty tier generates the highest revenue?
-- Which products have the highest average ratings?
-- Which products are viewed frequently but purchased less?
-- Which products have high interactions but low ratings?
-- How do interactions vary by device?
-- How does revenue change over time?
-- How does customer behavior vary by gender and country?
-
-## Dashboard
-
-### Executive Sales Dashboard
+### Dashboard
 
 ![Executive Sales Dashboard](1.jpg)
 
@@ -37,16 +35,47 @@ This project analyzes customer behavior, product performance, sales, and interac
 
 ![Customer Behavior Dashboard](2.jpg)
 
-## Key Insights
+---
 
-- Identified the products with the highest purchase quantities and revenue.
-- Compared product interactions with purchase activity to identify products receiving high attention but relatively fewer purchases.
-- Analyzed product ratings while considering a minimum review threshold.
-- Examined customer interactions across different devices, genders, and countries.
-- Analyzed revenue trends over time and across product categories.
-- Identified the loyalty tier generating the highest revenue.
+### 📈 Power BI — Bike Sales Analysis
 
-## Project Files
+An interactive Power BI dashboard analyzing bike sales performance across products, categories, brands, stores, cities, and time periods.
 
-- `Excel Dashboard.xlsx` — Excel workbook containing the dashboards, PivotTables, Power Pivot Data Model, relationships, and DAX measures.
-- Dashboard screenshots are included above for a quick preview.
+**Tools used:**
+- Power BI
+- Power Query
+- DAX
+- Data Modeling
+- Relationships
+
+**Key areas analyzed:**
+- Revenue and sales performance
+- Product performance
+- Product categories
+- Brands
+- Stores and cities
+- Monthly and yearly sales trends
+- Top products
+
+#### Dashboard
+
+![Bike Sales Dashboard](Screenshot_20260728-004124_Samsung Notes.jpg)
+
+---
+
+## Skills
+
+- Excel
+- Power Query
+- Power Pivot
+- Power BI
+- DAX
+- Data Cleaning
+- Data Modeling
+- Data Visualization
+- SQL
+- Python
+
+## More Projects Coming Soon
+
+SQL and Python projects will be added as I continue building my data analytics portfolio.
